@@ -1,5 +1,2 @@
-*/*
-!*/*.tar
-!*/*.tgz
-!*/*.zip
+*
 !.gitignore
